@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(format-raw-cambly-script)",
+      "Bash(python:*)",
+      "Bash(gh auth status:*)",
+      "Bash(git init:*)",
+      "Bash(where:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
